@@ -1,1 +1,1 @@
-var feedME = require(process.argv[3])
+var feedCat = require(process.argv[2])
